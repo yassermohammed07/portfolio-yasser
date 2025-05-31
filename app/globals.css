@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Ovo&display=swap');
+@import "tailwindcss";
+
+
+
+.font-Ovo {
+  font-family: 'Ovo', serif;
+}
+
+/* //Important to add this in tailwind V4 */
+@custom-variant dark (&:where(.dark,.dark *));
