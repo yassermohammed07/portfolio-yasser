@@ -3,6 +3,10 @@ import "./globals.css";
 export const metadata = {
   title: "Portfolio - Yasser",
   description: "",
+  icons: {
+    icon: '/favicon.ico',
+  },
+  
 };
 
 
