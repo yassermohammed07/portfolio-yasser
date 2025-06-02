@@ -1,4 +1,10 @@
 <<<<<<< HEAD
+
+
+Checkout the website by scanning below QR code :
+
+![image](https://github.com/user-attachments/assets/7888bd54-3b0d-4f50-b3b5-05447fc35272)
+
 # portfolio-yasser
 =======
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
