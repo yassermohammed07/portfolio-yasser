@@ -7,7 +7,7 @@ const About = ({isDarkMode}) => {
     <div
       id="about"
       className="w-full px-[12%] 
-      py-10 scroll-mt-20"
+      mt-40 scroll-mt-30"
     >
       <h4 className="text-center mb-2 text-lg font-Ovo">Introduction</h4>
       <h2 className="text-center text-5xl font-Ovo">About me</h2>
